@@ -1,8 +1,3 @@
-live link:
-
-
-http://localhost:5173/
-
 
 submission link: https://digitaldivas.vercel.app/
 
